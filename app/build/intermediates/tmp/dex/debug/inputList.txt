@@ -1,0 +1,2 @@
+D:\lihao-xy\Android Studio\test_06\app\build\intermediates\classes\debug
+D:\lihao-xy\Android Studio\test_06\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-dd5c091d22e39eee27cc576d39378774c7f1cbe6.jar
