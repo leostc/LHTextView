@@ -1,1 +1,2 @@
-¸ù¾Ý ÊäÈëµÄÄÚÈÝ ³¤¶È À´ÖÇÄÜ×Ô¶¯¶ÏÐÐ£¬¶ÔÄÚÈÝ½øÐÐ·ÖÒ³
+æ ¹æ® è¾“å…¥çš„å†…å®¹ é•¿åº¦ æ¥æ™ºèƒ½è‡ªåŠ¨æ–­è¡Œï¼Œå¯¹å†…å®¹è¿›è¡Œåˆ†é¡µ
+![img](https://github.com/leostc/LHTextView/blob/master/screenshot.jpg)
